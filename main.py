@@ -11,7 +11,7 @@ from os import mkdir, system
 AppId = "2963697"  #Replace With Your Own
 AppHash = "2775a2f2fc7348bcdf2995a0c11a7726"  #Replace With Your Own
 BotToken = "2127954906:AAE6-EarDzU3_LRRWkp-1M-tUn3C-a_L2zM"  #Replace With Your Own
-app = Client("FFMpvdvdvdvegot", api_id=AppId, api_hash=AppHash, bot_token=BotToken)
+app = Client("ffmpegconverterbot1", api_id=AppId, api_hash=AppHash, bot_token=BotToken)
 
 
 class Convert:
